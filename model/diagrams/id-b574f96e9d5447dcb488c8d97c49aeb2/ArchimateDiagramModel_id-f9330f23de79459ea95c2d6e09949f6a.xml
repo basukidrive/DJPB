@@ -126,7 +126,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0de2b60a4a984de685ba0e004d2e17e3"
-      targetConnections="id-1c8730ffe2484600a4981fdf56a90d64">
+      targetConnections="id-1c8730ffe2484600a4981fdf56a90d64 id-14ff48ddf7f54b48b2a8d5df2f619d44">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0a9b3d7d0f8b48b3923afae4a402adcb"
@@ -162,6 +162,19 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2f178c3121864a0091ade74bfc35cb0a"
       targetConnections="id-7df32a5f679449f788bcad8a318c4410">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-90084af2b5dd4ec98b25a9875e91c5a1"
+        source="id-2f178c3121864a0091ade74bfc35cb0a"
+        target="id-63272c0ade4549d0aa2056ffd55bdcea">
+      <bendpoints
+          startY="-75"
+          endX="-144"
+          endY="-4"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-f9eec88964ed4eeabaed9cb29352de8a.xml#id-f9eec88964ed4eeabaed9cb29352de8a"/>
+    </sourceConnections>
     <bounds
         x="168"
         y="228"
@@ -178,6 +191,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-63272c0ade4549d0aa2056ffd55bdcea"
+        targetConnections="id-90084af2b5dd4ec98b25a9875e91c5a1"
         source="id-dabae8e361124f828f1def90ad5438bc"
         target="id-254404a7f10f4e6b9ec02cd8897fb86e">
       <archimateRelationship
@@ -197,6 +211,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-94ab09fd33ea458ca243985825f35595"
       targetConnections="id-09d960252cd849eeb9315bb074485d40">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-14ff48ddf7f54b48b2a8d5df2f619d44"
+        source="id-94ab09fd33ea458ca243985825f35595"
+        target="id-0de2b60a4a984de685ba0e004d2e17e3">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-77c95b4459ec4b02ae152ca2e3208781.xml#id-77c95b4459ec4b02ae152ca2e3208781"/>
+    </sourceConnections>
     <bounds
         x="516"
         y="228"
