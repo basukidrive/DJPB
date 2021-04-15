@@ -304,10 +304,10 @@
       id="id-fb43f735ded542e2a402c366db335a9f"
       targetConnections="id-1e9dceddf6424663978a64dec23e5246">
     <bounds
-        x="504"
-        y="420"
-        width="120"
-        height="94"/>
+        x="505"
+        y="444"
+        width="156"
+        height="67"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-7c0e5a096a8e438f80ecf3a4999cc4be.xml#id-7c0e5a096a8e438f80ecf3a4999cc4be"/>
