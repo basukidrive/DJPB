@@ -25,9 +25,9 @@
           href="CompositionRelationship_id-b51791d98ba4425ab8b8cd78c76e85fc.xml#id-b51791d98ba4425ab8b8cd78c76e85fc"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="24"
-        width="627"
+        x="216"
+        y="48"
+        width="493"
         height="229"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -106,5 +106,53 @@
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_id-56886b9c97624bfd88ba0d50b8094cec.xml#id-56886b9c97624bfd88ba0d50b8094cec"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-70f38e73e7a3438292f72d571deec47a">
+    <bounds
+        x="216"
+        y="288"
+        width="481"
+        height="141"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-32f3e3b6f14942f2861a3167da0281f4">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-13d85241957d43f38a60ec1414545339.xml#id-13d85241957d43f38a60ec1414545339"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_id-566d2c343d664105902a3061c3b34c46.xml#id-566d2c343d664105902a3061c3b34c46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d530ea2a3e824b30b58c57647d8f469c">
+    <bounds
+        x="72"
+        y="48"
+        width="133"
+        height="373"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-15f063aeec7a4a59946c6d52269aadd2">
+      <bounds
+          x="12"
+          y="72"
+          width="85"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-21df78689798416fa3c55b2675bbe06d.xml#id-21df78689798416fa3c55b2675bbe06d"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:TechnologyFunction"
+        href="TechnologyFunction_id-7d58a4457f644f029e16191a286d7d3f.xml#id-7d58a4457f644f029e16191a286d7d3f"/>
   </children>
 </archimate:ArchimateDiagramModel>
